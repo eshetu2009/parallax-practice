@@ -1,0 +1,219 @@
+    
+        .linkwarper ul {
+            list-style: none;
+             
+        }
+        
+
+
+        
+       
+.linkwarper{
+background: #c4c4ce; 
+	color: #fff;
+	font-weight: 500;
+	/* font-size: 0.75em;	 */
+    font-size: 20px;
+    width: 1500px;
+    height: 60px;
+     
+}
+.t{
+  color: #f44336;
+}
+.w{
+  color: #55ACEE;
+}
+    .nav-item{
+      color: #f44336;
+    }    
+.linkwarper {
+    
+  padding: o auto;
+	margin: 0 auto;
+    
+}
+.linkwarper ul li {
+    
+     
+      opacity: 0.8;
+      
+    }
+    .bt{
+      margin-left: 120px;
+    }
+    
+     .jumbotron{ 
+        text-align: center;
+        text-align: center;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    
+        background:url(../img/teckGiff.e84b13b5.gif);
+
+
+        background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron{
+  width: auto;
+  height: 300px;
+  
+}
+.t {
+  margin-left: 200px;
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.w{
+  margin-left: 200px;
+}
+.text{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    font-weight: 900;
+    line-height: 1.2;
+
+}
+.ed{
+  margin-left: 600px;
+}
+/* contact */
+.contact{
+  
+  margin: top 100px; 
+  color: #fff;
+  text-transform: uppercase;
+  transition: all 4s ease-in-out;
+  
+
+}
+.contact h1{
+  font-size: 32px;
+  line: height 10px; ;
+}
+.contact h2{
+  font: size 16px; ;
+}
+form{
+  margin-top: 50px;
+  transition:all 4s ease-in-out;
+}
+.g{
+  margin-left: 80px;
+}
+.contact-form{
+  /* width: 60px; */
+  background:transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: rgb(226, 164, 164);
+  font-size:18px;
+  margin-left: 100px;
+  margin-bottom:16px
+  
+}
+input{
+  height: 45px;
+}
+form .submit{
+  background: #ff5722;
+  border-color: #fff;
+  font-size: 20px;
+  font-weight: 20px;
+  letter-spacing: 2px;
+
+}
+form .submit :hover{
+  background-color: #f44336;
+  cursor: pointer;
+}
+.f{
+  background-color: #c4c4ce;
+  width: auto;
+  height: inherit;
+}
+.r{
+  background-color: #c4c4ce;
+  ;
+  float: right;
+
+
+
+}
+* footer */
+.footer{
+  float:center;
+  
+
+margin-left: 300px;
+justify-content: space-around;
+
+}
+
+.fa-brands {
+   
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+  
+  }
+  .fa-facebook:hover{
+       opacity: 1px;
+  }
+  
+  .fa-linkedin{
+       background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+.fa-linkedin{
+
+   background: #3b5998;
+  color: white;
+  
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+.m{
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
